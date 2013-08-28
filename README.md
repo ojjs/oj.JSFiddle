@@ -1,4 +1,6 @@
 oj.JSFiddle
-===========
+============
 
-JSFiddle plugin for OJ
+A JSFiddle plugin for OJ.
+
+More info at [ojjs.org](http://ojjs.org/plugins#JSFiddle)
