@@ -1,6 +1,6 @@
 {
   "name": "oj-jsfiddle",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "oj.JSFiddle.js",
   "description": "JSFiddle plugin for OJ",
   "homepage": "http://ojjs.org/plugins#JSFiddle",
