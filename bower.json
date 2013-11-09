@@ -1,0 +1,24 @@
+{
+  "name": "oj-jsfiddle",
+  "version": "0.0.2",
+  "main": "oj.JSFiddle.js",
+  "homepage": "http://ojjs.org/plugins.html#JSFiddle",
+  "authors": [
+    "Evan Moran <evan@evanmoran.com>"
+  ],
+  "description": "JSFiddle plugin for OJ",
+  "keywords": [
+    "oj",
+    "plugin",
+    "jsfiddle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "bower_components",
+    "package.json",
+    "node_modules"
+  ]
+}
